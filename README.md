@@ -20,7 +20,7 @@ Hello, I’m **Raul A. Garcia** — an aspiring technology professional with a f
 | Project | Description | Link |
 |--------|-------------|------|
 | Batted Ball Data Project | Exit velocity imputation, cleaning, and performance analysis using Python & pandas | [GitHub](https://github.com/R-Garcia24/batted-ball-analysis) |
-| Credit Card Fraud Detection | ML pipeline using Python, SMOTE, and XGBoost to detect credit card fraud | [GitHub](https://github.com/R-Garcia24/credit-card-fraud-detection) |
+| Credit Card Fraud Detection | ML pipeline using Python, SMOTE, and XGBoost to detect credit card fraud | [GitHub](https://github.com/R-Garcia24/credit-card-fraud) |
 
 
 _(Links will be added once projects are created!)_
