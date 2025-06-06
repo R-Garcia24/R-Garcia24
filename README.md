@@ -21,6 +21,7 @@ Hello, I’m **Raul A. Garcia** — an aspiring technology professional with a f
 |--------|-------------|------|
 | Batted Ball Data Project | Exit velocity imputation, cleaning, and performance analysis using Python & pandas | [GitHub](https://github.com/R-Garcia24/batted-ball-analysis) |
 | Credit Card Fraud Detection | ML pipeline using Python, SMOTE, and XGBoost to detect credit card fraud | [GitHub](https://github.com/R-Garcia24/Credit_Card_Fraud) |
+| Real Estate Insight | SQL + Tableau analysis of 1M+ CT property sales with simulated Cap Rate & Price per SqFt | [GitHub](https://github.com/R-Garcia24/real-estate-insight) / [Dashboard](https://public.tableau.com/views/Real_Estate_Insight/RealEstateInsight?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 
 
